@@ -1,0 +1,17 @@
+{"agent" : "pid", "runType": "RDiff", "diffChange": "numEpisodes", "numActions" : 3, 
+"currRun" : 1, "presentationRun" : [0.2, "setStartingLoc", [0], 1000], "runs" : [
+[1, "setStartingLoc", [0], 500],
+[1, "setStartingLoc", [0, -1, 1], 500],
+[1, "setStartingLoc", [0, -1], 500],
+[1, "setStartingLoc", [0, -1, -2], 500],
+[0.5, "setStartingLoc", [0], 1000],
+[0.5, "setStartingLoc", [0, -1], 1000],
+[0.5, "setStartingLoc", [0, -1, -2], 1000],
+[0.35, "setStartingLoc", [0], 1000],
+[0.35, "setStartingLoc", [0, -1], 1000],
+[0.35, "setStartingLoc", [0, -1, -2], 1000],
+[0.2, "setStartingLoc", [0, -1, -2], 1000],
+[0.1, "setStartingLoc", [0, -1, -2], 2000],
+[0.05, "setStartingLoc", [0, -1, -2], 2000],
+[0.2, "setStartingLoc", [-2, 2], 2000]]}
+
