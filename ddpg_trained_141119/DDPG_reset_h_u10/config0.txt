@@ -1,0 +1,14 @@
+{"runType": "RDiffPosReset", "agent" : "ddpg", "numActions" : 1, "numResults" : 50, "resultsKey" : "reward", "state_hist_size" : 4, "updateFreq" : 10,
+"action_lim" : 0.08, "action_offset" : 0.57, "currRun" : 0,"runs" : [
+[1, "setStartingLoc", [0], 0.99],
+[1, "setStartingLoc", [0, -1], 0.99],
+[1, "setStartingLoc", [0, -1, -2], 0.99],
+[0.5, "setStartingLoc", [0], 0.95],
+[0.5, "setStartingLoc", [0, -1], 0.95],
+[0.5, "setStartingLoc", [0, -1, -2], 0.95],
+[0.35, "setStartingLoc", [0], 0.95],
+[0.35, "setStartingLoc", [0, -1], 0.95],
+[0.35, "setStartingLoc", [0, -1, -2], 0.95],
+[0.2, "setStartingLoc", [0, -1, -2], 0.95],
+[0.1, "setStartingLoc", [0, -1, -2], 1.1]]}
+
